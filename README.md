@@ -77,5 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # graphlq-shopping
 
+<img width="1383" alt="shopping react" src="https://user-images.githubusercontent.com/81765398/218322868-d631427c-359b-4dc5-96ea-a418c48052a9.png">
 
-![Uploading shopping react.png…]()
+
